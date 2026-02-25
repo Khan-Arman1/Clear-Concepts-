@@ -1,2 +1,2 @@
 # Clear-Concepts-
-Own Researches for Conceptual Clearence 
+Own Researches for Concept Clearance 
